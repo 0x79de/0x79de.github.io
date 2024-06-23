@@ -1,0 +1,23 @@
+
+body {
+    line-height: 1.4;
+    font-size: 16px;
+    padding: 0 10px;
+    margin: 50px auto;
+    max-width: 650px;
+}
+
+#maincontent {
+    max-width: 42em;
+    margin: 15px auto;
+}
+
+h1 {
+    font-size: 1.25em;
+    margin-bottom: 0.75em;
+}
+
+h2 {
+    font-size: 1em;
+    margin-bottom: 0.25em;
+}
